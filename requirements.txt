@@ -1,0 +1,8 @@
+streamlit>=1.66
+pandas
+numpy
+qrcode[pil]
+opencv-python-headless
+sqlalchemy>=2.0
+tzdata
+psycopg2-binary
